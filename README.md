@@ -19,8 +19,7 @@ SpringBoot + Mysql + RocketMQ + Vue + 小程序
 
 #### 目录结构
 
-#### ├── curtain-manage   CMS Java API
-
+├── curtain-manage   CMS Java API
 <br>
 ├── curtain-element   CMS Vue 前端
 <br>
